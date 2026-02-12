@@ -1,6 +1,8 @@
 # 📊 E-Commerce Sales Dashboard | Power BI
 
 This project presents an interactive **E-Commerce Sales Analysis Dashboard** built using **Power BI**, focused on extracting meaningful business insights from raw sales data.
+## 🔍 Dashboard Preview
+![picture](ecommerce.png)
 
 ## 🔍 Project Overview
 
